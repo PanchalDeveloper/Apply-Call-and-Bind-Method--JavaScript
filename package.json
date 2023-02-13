@@ -1,0 +1,12 @@
+{
+  "name": "apply-call-and-bind-method--javascript",
+  "version": "1.0.0",
+  "description": "This Program helps to understand JavaScript's 'Apply', 'Call', and 'Bind' Methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aman Panchal",
+  "license": "ISC"
+}
